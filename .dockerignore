@@ -1,0 +1,9 @@
+cmake-build-debug
+.git
+.vscode
+data
+*.md
+*.pdf
+.gitlab-ci.yml
+scripts
+
