@@ -77,15 +77,6 @@ To create an access token, use:
 ```
 az account get-access-token --resource https://storage.azure.com/ -o tsv --query accessToken
 ```
- 
-## Submission:
-You can submit everything via GitLab.
-First fork this repository, and add all members of your group to a single repository.
-Then, in this group repository, add:
-* Names of all members of your group in groupMembers.txt
-* Code that implements the assignment
-* Test scripts that demonstrate the capabilities of your solution (correctness, elasticity, resilience)
-* A written report giving a brief description of your implementation, and answering the questions that you can find on the assignment sheet.
 
 
 ## Deploy to Azure:
